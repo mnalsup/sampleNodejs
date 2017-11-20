@@ -7,6 +7,6 @@
     "express": "^4.16.2"
   },
   "scripts": {
-    "start": "nodejs index.js"
+    "start": "node index.js"
   }
 }
