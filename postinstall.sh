@@ -1,1 +1,1 @@
-sudo sampleNodejs scale web=1
+sudo samplenodejs scale web=1
